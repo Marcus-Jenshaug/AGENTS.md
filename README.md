@@ -1,7 +1,7 @@
 # AGENTS.md Framework
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/YOUR-USERNAME/YOUR-REPO/ci.yml?branch=main)](https://github.com/YOUR-USERNAME/YOUR-REPO/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Marcus-Jenshaug/AGENTS.md/ci.yml?branch=main)](https://github.com/YOUR-USERNAME/YOUR-REPO/actions)
 [![Docs](https://img.shields.io/badge/docs-online-green.svg)](#documentation)
 
 A framework-agnostic guide and configuration system for **AI-assisted code generation**.
