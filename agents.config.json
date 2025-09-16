@@ -1,0 +1,10 @@
+{
+  "mockupDir": "designmockup",
+  "routeBase": "/",
+  "skip": ["globals"],
+  "output": {
+    "pagesDir": "frontend/src/pages",
+    "componentsDir": "frontend/src/components",
+    "routerFile": "frontend/src/router.tsx"
+  }
+}
